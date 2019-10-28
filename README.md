@@ -4,7 +4,7 @@ The Implicit flow is effectively deprecated and should no longer be used.
 
 ## Quick Start: Automatic Setup with Heroku
 
-You need a [Heroku]() account to follow these instructions.
+You need a [Heroku](https://signup.heroku.com/) account to follow these instructions.
 
 You can create a free Okta Developer org and deploy this app directly to Heroku by clicking the purple button:
 
@@ -63,7 +63,7 @@ This is why the Authorization Code Flow with PKCE Flow is a superior alternative
 
 ## Quick Start: Manual Setup
 
-You need a free [Okta Developer Org](https://developer.okta.con/signup) to get started.
+You need a free [Okta Developer Org](https://developer.okta.com/signup) to get started.
 
 In the admin console of your Okta org, Navigate to: **Applications**
 
